@@ -18,11 +18,6 @@ Kumpulan Codingan GOLANG
 Follow Saya Di Instagram ❤️[Faris_Rasyid❤️](https://www.instagram.com/_farisrasyid_/)
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## License
 
 Copyright (c) [2022] [Faris Rasyid]
