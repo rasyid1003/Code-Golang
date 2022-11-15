@@ -15,7 +15,7 @@ Kumpulan Codingan GOLANG
 
 ## Feedback
 
-Follow Saya Di Instagram ❤️[Faris_Rasyid❤️](https://www.instagram.com/_farisrasyid_/)
+Follow Saya Di Instagram 👉[Faris_Rasyid👈](https://www.instagram.com/_farisrasyid_/)
 
 
 ## License
