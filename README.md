@@ -12,7 +12,7 @@ I'm a full stack developer...
 
 Kumpulan Codingan GOLANG
 
-Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003)
+Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003?tab=repositories)
 
 ## Feedback
 
