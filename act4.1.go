@@ -16,7 +16,7 @@ func main() {
 
 	naikanGaji(gajiSekarang, ekspetasiGaji)
 
-	fmt.Printf("\nGaji anda sekarang %d\n",gajiSekarang)
+	fmt.Printf("\nGaji anda sekarang %d\n",ekspetasiGaji)
 }
 
 func naikanGaji(gajiAwal int,gajiAkhir int ) {
