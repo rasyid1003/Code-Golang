@@ -17,6 +17,7 @@ Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003?tab=repos
 ## Feedback
 
 Follow Saya Di Instagram 👉[Faris_Rasyid👈](https://www.instagram.com/_farisrasyid_/)
+JANGAN LUPA STAR⭐ NYA YA UNTUK DUKUNG GITHUB INI🤩
 
 
 ## License
