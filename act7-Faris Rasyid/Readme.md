@@ -1,8 +1,8 @@
 
 ## Authors
 [Faris Rasyid](http://farisrasyid.my.id)
-# GOLANG FOR BEGINER
-
+# GOLANG FOR BEGINER ACT 7
+Apa aja sih yg harus di buat di act 7??
 ![image](https://user-images.githubusercontent.com/85282829/209644224-2c9a605f-969b-4a94-b0c3-bdde5482be2d.png)
 ![image](https://user-images.githubusercontent.com/85282829/209644244-9c65c3b1-27fb-42a8-836c-d5fbe8b68ec7.png)
 ![image](https://user-images.githubusercontent.com/85282829/209644273-160e4305-27a9-4588-aa99-4b01bc0299b7.png)
