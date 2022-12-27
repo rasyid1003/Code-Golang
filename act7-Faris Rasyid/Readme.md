@@ -1,16 +1,12 @@
 
 ## Authors
-
-- [Faris Rasyid](http://farisrasyid.my.id)
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
+[Faris Rasyid](http://farisrasyid.my.id)
 # GOLANG FOR BEGINER
 
-Kumpulan Codingan GOLANG
+![image](https://user-images.githubusercontent.com/85282829/209644224-2c9a605f-969b-4a94-b0c3-bdde5482be2d.png)
+![image](https://user-images.githubusercontent.com/85282829/209644244-9c65c3b1-27fb-42a8-836c-d5fbe8b68ec7.png)
+![image](https://user-images.githubusercontent.com/85282829/209644273-160e4305-27a9-4588-aa99-4b01bc0299b7.png)
+
 
 Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003?tab=repositories)
 
