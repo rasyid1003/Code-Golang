@@ -7,7 +7,7 @@
 # GOLANG FOR BEGINER ACT8
 
 
-Kumpulan Codingan GOLANG
+Progress...
 
 Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003?tab=repositories)
 
