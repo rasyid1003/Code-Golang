@@ -4,10 +4,6 @@
 - [Faris Rasyid](http://farisrasyid.my.id)
 
 
-## 🚀 About Me
-I'm a full stack developer...
-
-
 # GOLANG FOR BEGINER ACT8
 
 
