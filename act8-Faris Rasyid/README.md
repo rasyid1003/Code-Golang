@@ -8,8 +8,7 @@
 I'm a full stack developer...
 
 
-# GOLANG FOR BEGINER ACT5
-![Gambar ](https://cdn.discordapp.com/attachments/1041961141594759178/1043810538473398312/image.png)
+# GOLANG FOR BEGINER ACT8
 
 
 Kumpulan Codingan GOLANG
