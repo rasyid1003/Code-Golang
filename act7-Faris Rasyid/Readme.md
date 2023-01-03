@@ -7,6 +7,7 @@ Apa aja sih yg harus di buat di act 7??
 ![image](https://user-images.githubusercontent.com/85282829/209644244-9c65c3b1-27fb-42a8-836c-d5fbe8b68ec7.png)
 ![image](https://user-images.githubusercontent.com/85282829/209644273-160e4305-27a9-4588-aa99-4b01bc0299b7.png)
 
+## Special Thanks for webkumal.com
 
 Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003?tab=repositories)
 
