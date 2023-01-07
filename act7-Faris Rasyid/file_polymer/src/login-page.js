@@ -24,7 +24,10 @@ class MyView1 extends PolymerElement {
  
      <button type="submit" class="registerbtn">LOGIN</button>
       </div>
-      <script>
+    `;
+  }
+}
+<script>
     class LoginPage extends Polymer.Element {
       static get is() { return 'login-page'; }
       static get properties() {
@@ -57,8 +60,4 @@ class MyView1 extends PolymerElement {
 
     window.customElements.define(LoginPage.is, LoginPage);
   </script>
-    `;
-  }
-}
-
 window.customElements.define('login-page', MyView1);
