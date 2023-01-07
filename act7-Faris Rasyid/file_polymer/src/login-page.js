@@ -24,6 +24,39 @@ class MyView1 extends PolymerElement {
  
      <button type="submit" class="registerbtn">LOGIN</button>
       </div>
+      <script>
+    class LoginPage extends Polymer.Element {
+      static get is() { return 'login-page'; }
+      static get properties() {
+        return {
+          username: String,
+          password: String,
+          isAdmin: {
+            type: Boolean,
+            notify: true,
+          },
+        };
+      }
+
+      handleChange(e) {
+        this[e.target.name] = e.target.value;
+      }
+
+      handleSubmit(e) {
+        if(this.username === 'reza' && this.password === 'reza') {
+          this.isAdmin = true;
+          window.history.pushState({}, null, '/message-page');
+          window.dispatchEvent(new CustomEvent('location-changed'));
+          return;
+        }
+
+        this.isAdmin = false;
+        alert('Mohon Login sebagai Admin');
+      }
+    }
+
+    window.customElements.define(LoginPage.is, LoginPage);
+  </script>
     `;
   }
 }
