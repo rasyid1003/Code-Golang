@@ -21,7 +21,7 @@ type lepkom struct {
 
 var data_mahasiswa = []lepkom{
 	{
-		Nama:   "Faldy",
+		Nama:   "Faris Rasyid",
 		Kursus: "Golang For Beginer",
 		Foto:   "img/gambar1.jpg",
 	},
