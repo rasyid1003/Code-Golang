@@ -4,15 +4,10 @@
 - [Faris Rasyid](http://farisrasyid.my.id)
 
 
-## 🚀 About Me
-I'm a full stack developer...
+# GOLANG FOR BEGINER ACT8
 
 
-# GOLANG FOR BEGINER ACT5
-![Gambar ](https://cdn.discordapp.com/attachments/1041961141594759178/1043810538473398312/image.png)
-
-
-Kumpulan Codingan GOLANG
+# Waiting...
 
 Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003?tab=repositories)
 
