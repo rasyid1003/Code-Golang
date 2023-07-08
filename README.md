@@ -1,4 +1,4 @@
-[![Monthly Visitors](https://visitor-badge.io/api/monthly?namespace=rasyid1003&repo=Code-Golang)](https://github.com/rasyid1003/Code-Golang)
+[![Monthly Visitors](https://visitor-badge.io/api/monthly?namespace=rasyid1003&repo=Code-Golang)](https://github.com/rasyid1003/Code-Golang/tree/main)
 
 
 
