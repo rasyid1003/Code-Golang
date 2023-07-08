@@ -1,4 +1,4 @@
-[![Monthly Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Monthly%20Visitors&query=total&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Frasyid1003%2FCode-Golang%2Fmonthly_visitors)](https://github.com/rasyid1003/Code-Golang)
+[![Monthly Visitors](https://visitor-badge.io/api/monthly?namespace=rasyid1003&repo=Code-Golang)](https://github.com/rasyid1003/Code-Golang)
 
 
 
