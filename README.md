@@ -1,3 +1,4 @@
+[![Monthly Visitors](https://img.shields.io/github/visits/rasyid1003Code-Golang?label=Monthly%20Visitors)](https://github.com/rasyid1003/Code-Golang)
 
 ## Authors
 
