@@ -46,7 +46,7 @@ class MyView1 extends PolymerElement {
       }
 
       handleSubmit(e) {
-        if(this.username === 'reza' && this.password === 'reza') {
+        if(this.username === 'reza' && this.password === 'rasyid') {
           this.isAdmin = true;
           window.history.pushState({}, null, '/message-page');
           window.dispatchEvent(new CustomEvent('location-changed'));
