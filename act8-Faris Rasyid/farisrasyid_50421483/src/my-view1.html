@@ -9,9 +9,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 -->
 
 <link rel="import" href="../bower_components/polymer/polymer-element.html">
-<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
 <link rel="import" href="shared-styles.html">
-
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
 <dom-module id="my-view1">
   <template>
     <style include="shared-styles">
@@ -21,35 +20,31 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         padding: 10px;
       }
 
-      .card{
+      .card {
         width: 24%;
         display: inline-block;
         overflow: hidden;
       }
 
-      .gambar{
+      .gambar {
         width: 100%;
-        height: 180px;
+        height: 100%;
       }
     </style>
 
-    <center><h1>Daftar Nama Mahasiswa Kursus Lepkom</h1></center>
-    <template is= "dom-repeat" items="[[data]]">
+    <center>
+      <h1>Daftar Nama Mahasiswa Kursus Lepkom</h1>
+    </center>
+    <template is="dom-repeat" items="[[data]]">
       <div class="card">
-        <img src="[[item.foto_mahasiswa]]" alt="gambar">
+        <img src="[[item.foto_mahasiswa]]" alt="gambar" class="gambar">
         <p>Nama : [[item.nama_mahasiswa]]</p>
-        <p>Kursus : [[item.kursus_mahasiswa]]</p>
+        <p> Kursus: [[item.kursus_mahasiswa]]</p>
       </div>
     </template>
 
-    <iron-ajax
-      auto 
-      url="/api/mahasiswa"
-      handle-as="json"
-      method="GET"
-      on-response="_handleResponse"
-      debounce-duration="300"
-    >
+    <iron-ajax auto url="/api/mahasiswa" handle-as="json" method="GET" on-response="_handleResponse"
+      debounce-duration="300">
     </iron-ajax>
   </template>
 
@@ -57,15 +52,16 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     class MyView1 extends Polymer.Element {
       static get is() { return 'my-view1'; }
 
-      static get properties(){
-        return{
-          data : {
-            type : Object,
-            notify : true,
+      static get properties() {
+        return {
+          data: {
+            type: Object,
+            notify: true,
           }
         }
       }
-      _handleResponse(e){
+
+      _handleResponse(e) {
         this.data = e.detail.response
       }
     }

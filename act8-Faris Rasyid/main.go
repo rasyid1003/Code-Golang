@@ -7,10 +7,10 @@ import (
 )
 
 func main() {
-	http.Handle("/", http.FileServer(http.Dir("polymer")))
+	http.Handle("/", http.FileServer(http.Dir("farisrasyid_50421483")))
 	http.HandleFunc("/api/mahasiswa", user)
-	fmt.Println("web Berjalan dengan port 5020")
-	http.ListenAndServe(":5024", nil)
+	fmt.Println("Server berjalan di port 8000")
+	http.ListenAndServe(":8000", nil)
 }
 
 type lepkom struct {
@@ -21,8 +21,13 @@ type lepkom struct {
 
 var data_mahasiswa = []lepkom{
 	{
-		Nama:   "Faris Rasyid",
-		Kursus: "Golang For Beginer",
+		Nama:   "Faris",
+		Kursus: "Fundamental Web",
+		Foto:   "img/gambar1.jpg",
+	},
+	{
+		Nama:   "Rasyid",
+		Kursus: "Golang for Beginner",
 		Foto:   "img/gambar1.jpg",
 	},
 }
@@ -37,6 +42,7 @@ func user(w http.ResponseWriter, r *http.Request) {
 			http.Error(w, err.Error(), http.StatusInternalServerError)
 			return
 		}
+
 		w.Write(result)
 		return
 	}
